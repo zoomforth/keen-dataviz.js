@@ -18,9 +18,6 @@
     "Joe Wegner <joe@keen.io> (https://github.com/josephwegner)",
     "Sara Falkoff <sara@keen.io (https://github.com/sfalkoff)"
   ],
-  "engines": {
-    "node": "4.0.x"
-  },
   "dependencies": {
     "c3": "^0.4.10",
     "d3": "^3.5.0"
